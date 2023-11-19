@@ -3,14 +3,9 @@ date: 2018/03/01 19:00
 categories: 就职辅导
 description: 希望明年的3月1日，你会为今天的自己干一杯。2018年3月，为我们自己的就职加油! 
 tags:
-- 2018
 - 19卒
-- 就职
-- 正选考
 
 ---
-
-![图片取材于マイナビ](http://wx2.sinaimg.cn/mw690/a9a40e85gy1fownovbwz7j20p00dwgrf.jpg)
 
 终于到这一天了，
 
