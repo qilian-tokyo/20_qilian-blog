@@ -8,8 +8,6 @@ tags:
 
 ---
 
- <blockquote class="blockquote-center">逆风翻盘，向阳而生！</blockquote>
-
 ![case练习会](https://qilian-tokyo.github.io/img/20180630/01.jpg)
 
 ![case练习会](https://qilian-tokyo.github.io/img/20180630/02.jpg)
