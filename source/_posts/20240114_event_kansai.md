@@ -29,8 +29,7 @@ tags:
 |地点| 大阪府大阪市中央区道修町3-3-10 |
 
 
-
 ### 活动现场
-![20240114_25卒_关西地区宣讲会](https://qilian-tokyo.github.io/20240114_25卒_关西地区宣讲会.png)
+![20240114_25卒_关西地区宣讲会](https://qilian-tokyo.github.io/20240114.png)
 
 > photo taken by val
