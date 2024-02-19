@@ -30,6 +30,6 @@ tags:
 
 
 ### 活动现场
-![20240114_25卒_关西地区宣讲会](https://qilian-tokyo.github.io/20240114.png)
+![20240114_25卒_关西地区宣讲会](https://qilian-tokyo.github.io/img/20240114.png)
 
 > photo taken by val
