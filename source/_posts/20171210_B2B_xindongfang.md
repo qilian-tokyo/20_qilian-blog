@@ -1,6 +1,6 @@
 title: 新东方2018全球招募计划｜日本站，看到了你们每一个人的不平凡！
 date: 2017/12/10 13:00
-categories: 企业合作
+categories: 企业宣讲会
 description: 未来更加值得期待！
 tags:
 - 19卒
